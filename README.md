@@ -5,3 +5,5 @@ python，演算法
 [互換](/swap.py)
 
 [最大最小值](/max.py)
+
+[總和](/sum.py)
